@@ -1,0 +1,14 @@
+{
+  "build_dir": "build",
+  "vendor_files": {
+    "js": [
+      "jquery-1.11.3.min.js"
+    ]
+  },
+  "plugin_files": {
+    "js": [
+      "jquery.scrollex.min.js",
+      "jquery.scrolly.min.js"
+      ]
+    }
+  }
